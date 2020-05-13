@@ -15,7 +15,7 @@ A trivial Python Game using the Pygame library with a MySQL database for Leaderb
   
 3] Run in CMD:
 
-pip install -r requirements.txt 
+ * pip install -r requirements.txt 
 
 4] Run NNFS.py
 
