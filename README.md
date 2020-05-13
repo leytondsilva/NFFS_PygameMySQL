@@ -9,9 +9,9 @@ A trivial Python Game using the Pygame library with a MySQL database for Leaderb
 
 2] Create database 'gameboard' with table 'user_info' having columns (name,score). You can do this by running Apache and Mysql in Xampp, then  going to 'localhost/phpmyadmin' in your browser and executing the following queries.
   
-  create database
+  * create database
   
-  create table user_info(name VARCHAR(20), scoreVARCHAR(20))
+  * create table user_info(name VARCHAR(20), scoreVARCHAR(20))
   
 3] Run in CMD:
 
