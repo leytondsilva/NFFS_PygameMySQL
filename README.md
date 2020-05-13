@@ -3,7 +3,7 @@ A trivial Python Game using the Pygame library with a MySQL database for Leaderb
 
 <img src=Images/1.jpeg width=250 height=250> <img src=Images/2.jpeg width=250 height=250> <img src=Images/3.jpeg width=250 height=250> <img src=Images/4.jpeg width=250 height=250> <img src=Images/5.jpeg width=250 height=250>
 
-Steps:
+## Steps:
 
 1] Download and install xampp: https://www.apachefriends.org/download.html
 
@@ -15,5 +15,5 @@ Steps:
 
 4] Run NNFS.py
 
-References:
+## References:
 https://pythonprogramming.net/pygame-python-3-part-1-intro/
